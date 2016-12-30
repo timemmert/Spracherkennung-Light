@@ -1,0 +1,2 @@
+java -cp "C:\Program Files\Java\jdk1.8.0_92\jre\lib";"C:\Program Files\Java\jdk1.8.0_92\jre\bin";"C:\Users\Orcalf\Documents\Programmieren Privat\Codes\Neuronales Netzwerk\Serverside";"C:\Users\Orcalf\Documents\Programmieren Privat\Codes\Neuronales Netzwerk\Serverside\derby.jar";"C:\Users\Orcalf\Documents\Programmieren Privat\Codes\Neuronales Netzwerk\Serverside\derbyLocale_de_DE.jar" Datenbank_init
+
